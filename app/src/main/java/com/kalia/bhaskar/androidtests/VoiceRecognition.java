@@ -11,7 +11,7 @@ import android.view.View.OnClickListener;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class MainActivity extends Activity implements OnClickListener {
+public class VoiceRecognition extends Activity implements OnClickListener {
 
     protected static final int REQUEST_OK = 1;
 
